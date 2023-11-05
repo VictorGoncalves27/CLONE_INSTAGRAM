@@ -5,5 +5,15 @@ Segue Atividade Instagram
 
 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para utilizar o projeto, siga os passos:
+1 ° Baixe a pasta zipada no github.
+
+2 ° Descompacte o projeto na sua máquina.
+
+3 ° Faça uso dos comandos para baixar a pasta node modules.
+
+4 ° npm install
+
+5 ° npm install react-icons
+
+6 ° npm run dev
