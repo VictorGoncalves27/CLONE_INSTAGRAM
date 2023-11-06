@@ -2,6 +2,7 @@ CLONE INSTAGRAM <br/>
 Projeto feito no Instituto Proa Solicitado pelo meu professor Gabriel, onde explicou sobre ReactJs e suas funcionalidades
 Segue Atividade Instagram 
 
+![Captura de tela 2023-11-05 110714](https://github.com/VictorGoncalves27/CLONE_INSTAGRAM/assets/142261805/577ff75b-d36b-4133-8257-b8e0d4fd091d)
 
 
 
