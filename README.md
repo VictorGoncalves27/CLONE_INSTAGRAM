@@ -6,7 +6,8 @@ Segue Atividade Instagram
 
 
 
-Para utilizar o projeto, siga os passos:
+Para utilizar o projeto, siga os passos:/n
+
 1 ° Baixe a pasta zipada no github.
 
 2 ° Descompacte o projeto na sua máquina.
