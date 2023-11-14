@@ -6,7 +6,7 @@ Segue Atividade Instagram :
 
 
 
-Para utilizar o projeto, siga os passos:/n
+Para utilizar o projeto, siga os passos:
 
 1 ° Baixe a pasta zipada no github.
 
